@@ -51,8 +51,6 @@ To install with [**Foundry**](https://github.com/gakonst/foundry):
 forge install transmissions11/solmate
 ```
 
-To install with [**Hardhat**](https://github.com/nomiclabs/hardhat) or [**Truffle**](https://github.com/trufflesuite/truffle):
-
 ```sh
 npm install solmate
 ```
